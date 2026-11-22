@@ -1,0 +1,14 @@
+{
+  "name": "AY Tenders",
+  "url": "https://tenders.ayskilllab.com/#pricing",
+  "description": "Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "50% off the first month on monthly plans, applied automatically",
+  "pricing": "subscription",
+  "price": { "regular": 19, "sale": 9.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-22",
+  "endDate": "2026-11-30",
+  "icon": "https://ayskilllab.com/press/ay-tenders-logo.png"
+}
